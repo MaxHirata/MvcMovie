@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{80716B1E-7428-40F8-B175-B917ADF2A3BF}|Default">
+  <MonoDevelop.Ide.ItemProperties.MvcMovie PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MvcMovie/Models/SeedData.cs">
+    <Files>
+      <File FileName="MvcMovie/Controllers/MoviesController.cs" Line="1" Column="1" />
+      <File FileName="MvcMovie/Models/MovieGenreViewModel.cs" Line="1" Column="1" />
+      <File FileName="MvcMovie/Models/SeedData.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MvcMovie" expanded="True">
+            <Node name="MvcMovie" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Movie.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
