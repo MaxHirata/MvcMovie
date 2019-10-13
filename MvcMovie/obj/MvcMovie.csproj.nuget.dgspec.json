@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/maxhirata/Projects/MvcMovie/MvcMovie/MvcMovie.csproj": {}
+    "/Users/maxhirata/Documents/GitHub/MvcMovie/MvcMovie/MvcMovie.csproj": {}
   },
   "projects": {
-    "/Users/maxhirata/Projects/MvcMovie/MvcMovie/MvcMovie.csproj": {
+    "/Users/maxhirata/Documents/GitHub/MvcMovie/MvcMovie/MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/maxhirata/Projects/MvcMovie/MvcMovie/MvcMovie.csproj",
+        "projectUniqueName": "/Users/maxhirata/Documents/GitHub/MvcMovie/MvcMovie/MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "/Users/maxhirata/Projects/MvcMovie/MvcMovie/MvcMovie.csproj",
+        "projectPath": "/Users/maxhirata/Documents/GitHub/MvcMovie/MvcMovie/MvcMovie.csproj",
         "packagesPath": "/Users/maxhirata/.nuget/packages/",
-        "outputPath": "/Users/maxhirata/Projects/MvcMovie/MvcMovie/obj/",
+        "outputPath": "/Users/maxhirata/Documents/GitHub/MvcMovie/MvcMovie/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
